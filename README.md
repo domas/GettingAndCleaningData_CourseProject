@@ -34,7 +34,6 @@ you have set the working directory to reflect your script's location. For exampl
 ```
 
 As a result of running ```run_analysis.R``` , new file should be created ```tidy_data``` 
-
  
 ## Dependencies
-This code is using 'data.table' package, so make sure to install it before you run the script.
+This code is using ```data.table``` package, so make sure to install it before you run the script.
