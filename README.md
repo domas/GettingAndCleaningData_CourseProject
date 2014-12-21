@@ -20,18 +20,18 @@ To run this code you will need to:
  
 Notice, your directory should look like:
 
-```<MY_DIRECTORY>
+```
   ..
   run_analysis.R
   UCI HAR Dataset
 ```
 
 Of course you can run this script from other directories but just make sure, that 
-you have set the working directory to reflect your script location. For example:
+you have set the working directory to reflect your script's location. For example:
 
-```setwd("/home/user/data/cleaning_data")```
+ ```setwd("/home/user/data/cleaning_data")``` 
 
-As a result of running run_analysis.R, new file should be created 'tidy_data'
+As a result of running ```run_analysis.R``` , new file should be created ```tidy_data``` 
 
  
 ## Dependencies
