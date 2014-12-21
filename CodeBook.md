@@ -1,8 +1,7 @@
 # Getting and Cleaning Data
-===========================
+
 
 ## Data Set Information:
-========================
 
 This data set is provided as the input data for Course Project in Coursera's 
 'Getting and Cleaning Data' course.
@@ -40,7 +39,7 @@ For each record it is provided:
 The dataset includes the following files:
 =========================================
 
- *  ```README.txt```
+ *  ```README.txt``` 
 
  *  ```features_info.txt```: Shows information about the variables used on the feature vector.
 
