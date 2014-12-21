@@ -16,14 +16,15 @@ To run this code you will need to:
  * create some directory,
  * put run_analysis.R in this new directory,
  * download and extract the original dataset from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
- * run run_analysis.R script in the path where the file is stored
+ * run ```run_analysis.R``` script in the path where the file is stored
  
 Notice, your directory should look like:
 
 ```<MY_DIRECTORY>
   ..
   run_analysis.R
-  UCI HAR Dataset```
+  UCI HAR Dataset
+```
 
 Of course you can run this script from other directories but just make sure, that 
 you have set the working directory to reflect your script location. For example:
