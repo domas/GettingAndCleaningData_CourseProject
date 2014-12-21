@@ -61,3 +61,15 @@ Notes:
  * Each feature vector is a row on the text file.
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
+
+## Data transformations
+
+In the process of preparing data following steps were taken:
+ 1. Training set and test set were merged into one set
+ 2. From the set of all measurements only the mean and standard deviation for each 
+    measurement were taken
+ 3. Activity numbers were replaced by activity names from ```activity_labels.txt```
+ 4. Header was added (with normalised names from ```features.txt```).
+ 5. New result set was created by grouping measurements by activity and subject and 
+    applying ```mean``` function. 
+

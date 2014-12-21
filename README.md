@@ -33,7 +33,7 @@ you have set the working directory to reflect your script's location. For exampl
  setwd("/home/user/data/cleaning_data")
 ```
 
-As a result of running ```run_analysis.R``` , new file should be created ```tidy_data``` 
+As a result of running ```run_analysis.R``` , new file should be created ```tidy_data.csv``` 
  
 ## Dependencies
 This code is using ```data.table``` package, so make sure to install it before you run the script.
