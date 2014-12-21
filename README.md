@@ -28,7 +28,10 @@ Notice, your directory should look like:
 
 Of course you can run this script from other directories but just make sure, that 
 you have set the working directory to reflect your script's location. For example:
-```setwd("/home/user/data/cleaning_data")```
+
+```
+setwd("/home/user/data/cleaning_data")
+```
 
 As a result of running ```run_analysis.R``` , new file should be created ```tidy_data``` 
  
